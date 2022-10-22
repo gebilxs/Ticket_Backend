@@ -1,0 +1,10 @@
+server:
+  port: ":3000"
+db:
+  hostname: 127.0.0.1
+  port: 3306
+  username: root
+  password: 123456
+  dbname: ticket
+jwt:
+  key: i7a6S8OFBGZjTCYKE6Rypipn6rugG7KR
